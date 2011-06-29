@@ -1,0 +1,5 @@
+C:\Dev\OnGithub\sjovik\UnitTest\bin\Debug\UnitTest.dll
+C:\Dev\OnGithub\sjovik\UnitTest\bin\Debug\UnitTest.pdb
+C:\Dev\OnGithub\sjovik\UnitTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\OnGithub\sjovik\UnitTest\obj\Debug\UnitTest.dll
+C:\Dev\OnGithub\sjovik\UnitTest\obj\Debug\UnitTest.pdb

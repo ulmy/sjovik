@@ -1,0 +1,5 @@
+C:\Dev\OnGithub\sjovik\Web\bin\MvcApplication1.dll
+C:\Dev\OnGithub\sjovik\Web\bin\MvcApplication1.pdb
+C:\Dev\OnGithub\sjovik\Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\OnGithub\sjovik\Web\obj\Debug\MvcApplication1.dll
+C:\Dev\OnGithub\sjovik\Web\obj\Debug\MvcApplication1.pdb
